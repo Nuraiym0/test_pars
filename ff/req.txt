@@ -1,0 +1,16 @@
+requests
+aiohttp
+Selenium
+Playwright
+peewee
+SQLAlchemy
+mongoengine
+
+beautifulsoup4
+lxml    
+dateparser
+
+selenium-stealth
+
+psycopg2-binary
+
